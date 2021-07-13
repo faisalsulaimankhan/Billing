@@ -1,0 +1,25 @@
+                  FAITH HOSPITAL          
+Phone : +91 987655432           Email : faith@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : Subham      Age : 23     Sex : M    
+       Weight : 72        Address : Delhi
+       Phone : 987654321          Date : 2020-06-20
+       Illness : Fever     Medical History : None
+__________________________________________________________
+About illness : Suffering from comman cold and viral fever. Given medicines in required to take. 
+
+Medicines Given :
+- Paracetamol 
+- Calpol 
+- Telmikind Am 
+
+Foods to Eat : 
+- Dal 
+- Roti 
+- Fruits 
+
+ Note : Take Rest and avoid to eat cold foods. 
+            ~~~~ Get Well Soon ~~~~
+
+            Don't Forget to Subscribe :) :)

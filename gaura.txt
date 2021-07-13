@@ -1,0 +1,19 @@
+                  FAITH HOSPITAL          
+Phone : +91 987655432           Email : faith@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : gaura      Age : 23     Sex : m    
+       Weight : 50        Address : beli
+       Phone : 7860          Date : 2020-07-14
+       Illness : fever     Medical History : covid
+__________________________________________________________
+About illness : bnnk 
+
+Medicines Given :
+- jjfg 
+- bj 
+
+Foods to Eat : 
+
+ Note : nm 
+            ~~~~ Get Well Soon ~~~~            
